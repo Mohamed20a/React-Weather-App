@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img width="80%" src="https://github.com/Mohamed20a/React-Weather-App/blob/main/public/icon/weather.png">
 
-<h2>A simple React weather app that allows you to get current weather information, based on the city you enter.</h2>
+<h3>A simple React weather app that allows you to get current weather information, based on the city you enter.</h3>
 
 ## Available Scripts
 
