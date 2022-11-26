@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## React Weather App:
+## React Weather App :
 
 <img align="center" width="80%" src="https://github.com/Mohamed20a/React-Weather-App/blob/main/public/icon/weather.png">
 
